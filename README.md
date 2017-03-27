@@ -1,4 +1,3 @@
 # Virtual-Tour-Android-SDK
-Virtual Tour Android SDK
 
-Please see https://sites.google.com/eyespy360.com/developer for configuration paramaters
+Please see https://sites.google.com/eyespy360.com/developer for usage and configuration paramaters 
